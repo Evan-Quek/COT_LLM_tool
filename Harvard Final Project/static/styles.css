@@ -1,0 +1,36 @@
+/* styles.css */
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+#response {
+    min-height: 50px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+#table-container {
+    max-height: 600px; /* Adjust to make the table taller */
+    overflow-y: auto;  /* Allow vertical scrolling if content exceeds height */
+}
+
+/* Ensure the table fills the entire width */
+#csvTable {
+    width: 98%;  /* Make table fill the entire width */
+}
+
+/* Optional: Make the container fill the width of the page */
+.full-width-container {
+    width: 98vw;  /* Make container span the full viewport width */
+    padding-left: 0;
+    padding-right: 0;
+}
