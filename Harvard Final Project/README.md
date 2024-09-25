@@ -1,4 +1,5 @@
 ## Project Description
+YouTube: https://www.youtube.com/watch?v=0wktzWQDF2o
 
 This project is built to analyze **Commitment of Traders (COT) reports**, providing key insights and actionable intelligence for **futures traders**. The COT reports, published weekly by the **Commodity Futures Trading Commission (CFTC)**, offer a breakdown of the aggregate positions held by different types of traders in the futures markets, including commercial hedgers, non-commercial speculators, and small traders. 
 
